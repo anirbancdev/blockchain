@@ -1,0 +1,16 @@
+yarn run v1.22.19
+$ npx ts-node -r tsconfig-paths/register scripts/5.updateMetadata.ts
+Payer address: HHGX7sBwwX7AgXxfT8UFcjYhe1HsDDvFMGvNfdgVgGGq
+=== Local PublicKeys loaded ===
+Token's mint address: HGH7wsTN3ZC2cUMHhmkBAvFRTBwfopkF7u96YZEdgke8
+https://explorer.solana.com/address/HGH7wsTN3ZC2cUMHhmkBAvFRTBwfopkF7u96YZEdgke8?cluster=devnet
+
+Metadata address: 5FMKnXUHL4YwhqtVvETxN9SzpyauQWCDBoPthMitCKzm
+
+===============================================
+===============================================
+
+Transaction completed.
+https://explorer.solana.com/tx/bLAB95gNwHytM2pN1cMJgxbDYPpHdb5HGPndVYLvrzmovkdcbKCoXXxvEh3yfFkgkAioy7cntUuFp7pQvbmwtfQ?cluster=devnet
+
+Done in 19.61s.

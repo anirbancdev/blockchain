@@ -1,0 +1,12 @@
+yarn run v1.22.19
+$ npx ts-node -r tsconfig-paths/register scripts/4.mintTokens.ts
+Payer address: HHGX7sBwwX7AgXxfT8UFcjYhe1HsDDvFMGvNfdgVgGGq
+==== Local PublicKeys loaded ====
+Token's mint address: HGH7wsTN3ZC2cUMHhmkBAvFRTBwfopkF7u96YZEdgke8
+https://explorer.solana.com/address/HGH7wsTN3ZC2cUMHhmkBAvFRTBwfopkF7u96YZEdgke8?cluster=devnet
+
+Token account address: H4r66sPWiWV5jXQLmZ9BFbco6X24XmQsVqRsq14tprjc
+Minting some tokens to the ata...
+https://explorer.solana.com/tx/2zDavdgiWU78iehU5v7GMzjXpraHrVEPrm4d7KohmfvY7StWRERBZuakkKcbGjVwDeJbmtHuVE5vMhe6rumdPdUk?cluster=devnet
+
+Done in 59.21s.

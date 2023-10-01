@@ -1,0 +1,14 @@
+yarn run v1.22.19
+$ npx ts-node -r tsconfig-paths/register scripts/3.createTokenWithMetadata.ts
+Payer address: HHGX7sBwwX7AgXxfT8UFcjYhe1HsDDvFMGvNfdgVgGGq
+Test wallet address: HNws7MEmuNHSLPuihqHzLnXtiSka9HZ5icJAqgAHGVbs
+Mint address: HGH7wsTN3ZC2cUMHhmkBAvFRTBwfopkF7u96YZEdgke8
+Metadata address: 5FMKnXUHL4YwhqtVvETxN9SzpyauQWCDBoPthMitCKzm
+
+===============================================
+===============================================
+
+Transaction completed.
+https://explorer.solana.com/tx/3xRrxQ1sCgJXocwQqVNQVdPs7HnMugLLyLSRB9qPn6BEA6ud6pCt1AfPCL8hsHrMW1jw4SXS5FXeYPTcpisZPCJj?cluster=devnet
+
+Done in 20.95s.

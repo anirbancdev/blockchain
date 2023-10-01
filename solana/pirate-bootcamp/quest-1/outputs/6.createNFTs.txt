@@ -1,0 +1,65 @@
+yarn run v1.22.19
+$ npx ts-node -r tsconfig-paths/register scripts/6.createNFTs.ts
+Payer address: HHGX7sBwwX7AgXxfT8UFcjYhe1HsDDvFMGvNfdgVgGGq
+=== Local PublicKeys loaded ===
+Token's mint address: HGH7wsTN3ZC2cUMHhmkBAvFRTBwfopkF7u96YZEdgke8
+https://explorer.solana.com/address/HGH7wsTN3ZC2cUMHhmkBAvFRTBwfopkF7u96YZEdgke8?cluster=devnet
+
+Uploading metadata...
+Metadata uploaded: https://arweave.net/cEsBfveNcr8Rq93WMucVDJAKZOzaUuJhZdYR3cfEA40
+
+===============================================
+===============================================
+
+NFT details:
+Creating NFT using Metaplex...
+
+===============================================
+===============================================
+
+Find by mint:
+{
+  model: 'sft',
+  updateAuthorityAddress: PublicKey [PublicKey(HHGX7sBwwX7AgXxfT8UFcjYhe1HsDDvFMGvNfdgVgGGq)] {
+    _bn: <BN: f1e5d4db8e7585052bdf7f41deb195eeb85949c93582b9f2893ecc47cd65e0ea>
+  },
+  json: null,
+  jsonLoaded: true,
+  name: 'City of gold',
+  symbol: 'AURUM',
+  uri: 'https://thisisnot.arealurl/new.json',
+  isMutable: true,
+  primarySaleHappened: false,
+  sellerFeeBasisPoints: 0,
+  editionNonce: 253,
+  creators: [],
+  tokenStandard: 2,
+  collection: null,
+  collectionDetails: null,
+  uses: null,
+  programmableConfig: null,
+  address: PublicKey [PublicKey(HGH7wsTN3ZC2cUMHhmkBAvFRTBwfopkF7u96YZEdgke8)] {
+    _bn: <BN: f1a4edfc12c76ff7ecdf8db7de16f33e34d0d0d66e812a9614fffd461faa8b6d>
+  },
+  metadataAddress: Pda [PublicKey(5FMKnXUHL4YwhqtVvETxN9SzpyauQWCDBoPthMitCKzm)] {
+    _bn: <BN: 3f1bdbfc08e9ac854a0f91fda29feae6018f768090fd8097c0a2abf1d86c6226>,
+    bump: 254
+  },
+  mint: {
+    model: 'mint',
+    address: PublicKey [PublicKey(HGH7wsTN3ZC2cUMHhmkBAvFRTBwfopkF7u96YZEdgke8)] {
+      _bn: <BN: f1a4edfc12c76ff7ecdf8db7de16f33e34d0d0d66e812a9614fffd461faa8b6d>
+    },
+    mintAuthorityAddress: PublicKey [PublicKey(HHGX7sBwwX7AgXxfT8UFcjYhe1HsDDvFMGvNfdgVgGGq)] {
+      _bn: <BN: f1e5d4db8e7585052bdf7f41deb195eeb85949c93582b9f2893ecc47cd65e0ea>
+    },
+    freezeAuthorityAddress: PublicKey [PublicKey(HHGX7sBwwX7AgXxfT8UFcjYhe1HsDDvFMGvNfdgVgGGq)] {
+      _bn: <BN: f1e5d4db8e7585052bdf7f41deb195eeb85949c93582b9f2893ecc47cd65e0ea>
+    },
+    decimals: 2,
+    supply: { basisPoints: <BN: 3e8>, currency: [Object] },
+    isWrappedSol: false,
+    currency: { symbol: 'AURUM', decimals: 2, namespace: 'spl-token' }
+  }
+}
+Done in 87.61s.

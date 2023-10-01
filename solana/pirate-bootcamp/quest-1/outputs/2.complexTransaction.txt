@@ -1,0 +1,12 @@
+yarn run v1.22.19
+$ npx ts-node -r tsconfig-paths/register scripts/2.complexTransaction.ts
+Payer address: HHGX7sBwwX7AgXxfT8UFcjYhe1HsDDvFMGvNfdgVgGGq
+Test wallet address: HNws7MEmuNHSLPuihqHzLnXtiSka9HZ5icJAqgAHGVbs
+
+===============================================
+===============================================
+
+Transaction completed.
+https://explorer.solana.com/tx/58HhrHgQdRfhfPm5opHVyfaNbdfCPxMXcEFDuJQ2a9dK6yiXQS5tnxMmFvkSR52Kc7uD7Py9RkjcFLms9oKNQAmf?cluster=devnet
+
+Done in 20.56s.
